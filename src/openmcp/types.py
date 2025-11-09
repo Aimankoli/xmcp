@@ -16,6 +16,7 @@ from __future__ import annotations
 from mcp.types import (
     # Protocol constants & primitives
     LATEST_PROTOCOL_VERSION,
+    DEFAULT_NEGOTIATED_VERSION,
     ProgressToken,
     Cursor,
     Role,
